@@ -4,3 +4,7 @@
 (Eng) obliczakcyze.pl is an auto excise tax calculator that allows you to calculate the total cost of importing a car from abroad (e.g. from Germany), as well as the cost of license plates and registration plates. The fee calculator calculates an indicative price which may differ from the actual amount spent.
 
 * **[Aplikacja internetowa obliczakcyze.pl](https://obliczakcyze.pl/)** _- link to the application_
+* **[Przypadki testowe]()**
+* **[Raporty defektów]()**
+    * **Zrzuty z ekranów prezentujące odtwarzane defekty**
+
