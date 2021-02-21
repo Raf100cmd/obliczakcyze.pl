@@ -6,5 +6,5 @@
 * **[Aplikacja internetowa obliczakcyze.pl](https://obliczakcyze.pl/)** _- link to the application_
 * **[Przypadki testowe](https://drive.google.com/file/d/1TwfSP8YZyb2IdBLSvk8cB275pMCwkqvM/view?usp=sharing)**
 * **[Raporty defektów](https://drive.google.com/file/d/1r9KOQu26NhXtB0UW61gRa1gJb0Ity32N/view?usp=sharing)**
-    * **Zrzuty z ekranów prezentujące odtwarzane defekty**
+    
 
